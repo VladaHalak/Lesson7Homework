@@ -1,0 +1,76 @@
+@import "reset.css";
+@import "common.css";
+
+.title {
+    width: 129px;
+    height: 36px;
+    margin: 79px auto 28px auto;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 36px;
+    text-align: center;
+}
+
+.line {
+    display: block;
+    height: 2px;
+    width: 80px;
+    margin: 0 auto;
+    background: #00000017;
+}
+
+h2 {
+    margin: 10px 0 6px 0;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.card {
+    width: 220px;
+    text-align: center;
+    margin: 10px;
+    height: 100%;
+    display: inline-block;
+}
+
+.card p {
+    font-family: Vollkorn, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.icon {
+    white-space: nowrap;
+    width: 29px;
+    height: 14px;
+    background: #F5F5F5;
+    display: inline-block;
+    text-align: center;
+    margin: 0 3px;
+}
+
+.iconimg {
+    padding: 1px 0 0 7px;
+
+}
+
+.iconfigure {
+    width: 14px;
+    height: 14px;
+    display: flex;
+
+}
+
+.mainicon {
+    width: 220px;
+    height: 35px;
+    display: inline-block;
+    margin-top: 18px;
+}
+
+.iconimgIN {
+    padding-top: 3px;
+    padding-left: 1px;
+}
+

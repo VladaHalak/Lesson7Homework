@@ -1,0 +1,20 @@
+@font-face {
+    font-family: Montserrat;
+    src: url("/fonts/Montserrat-Regular.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: Vollkorn;
+    src: url("/fonts/Vollkorn-Regular.ttf") format("truetype");
+    font-weight: 400;
+}
+
+body {
+    text-align: center;
+    font-size: 0;
+    line-height: 20px;
+    color: #333333;
+    font-family: 'Montserrat', sans-serif;
+}
+
