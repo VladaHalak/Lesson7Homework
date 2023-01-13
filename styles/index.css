@@ -44,6 +44,10 @@ h2 {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
+    display: -webkit-box;
+    -webkit-line-clamp:2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
 }
 
 .icon {
