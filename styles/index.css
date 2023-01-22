@@ -344,6 +344,7 @@ h2 {
     -webkit-box-shadow: 6px -8px 11px 6px rgba(87,43,87,0.66);
     -moz-box-shadow: 6px -8px 11px 6px rgba(87,43,87,0.66);
     box-shadow: 6px -8px 11px 6px rgba(87,43,87,0.66);
+    transition: all 0.3s;
 }
 
 /*margin: 28px auto 25px;*/
