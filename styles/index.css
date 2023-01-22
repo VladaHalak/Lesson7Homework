@@ -340,7 +340,7 @@ h2 {
     justify-content: center;
 }
 .d-flex-3:hover{
-    -webkit-box-shadow:hover: 6px -8px 11px 6px rgba(87,43,87,0.66);
+    -webkit-box-shadow: 6px -8px 11px 6px rgba(87,43,87,0.66);
     -moz-box-shadow: 6px -8px 11px 6px rgba(87,43,87,0.66);
     box-shadow: 6px -8px 11px 6px rgba(87,43,87,0.66);
 }
